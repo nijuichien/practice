@@ -1,8 +1,56 @@
-﻿,Company,Company Html,Opening Job,Opening Job Html,Job's Content
-0,"財團法人食品工業發展研究所_食品所
-                    ",https://www.104.com.tw/company/li22ti0?jobsource=hotjob_chr,技推中心-研究員及副研究員【資訊專長人才】,https://www.104.com.tw/job/7aqzs?jobsource=hotjob_chr,資料系統架構規劃與流程處理、數位工具的設計與應用、數據傳輸整合圖像化
-1,"翰成數位科技股份有限公司
-                    ",https://www.104.com.tw/company/ck0s028?jobsource=jolist_c_relevance,資訊中心 - 大數據分析師,https://www.104.com.tw/job/6z9c7?jobsource=jolist_c_relevance,"翰成數位科技專攻直播短影音新媒體、耗時多年開發的短影音推薦引擎，將於2021年Q3推出嗨吧 APP 、超過 1300坪全台第一座直播產業基地即將啟動，基地建置9 間專業攝影棚，專攻短影音、直播場景銷售營造。
+﻿,Company,Company Html,Opening Job,Opening Job Html,Job's Content,身分條件,具備駕照,語文條件,科系要求,工作經歷,薪資
+0,"台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)
+                    ",https://www.104.com.tw/company/10ww9gpk?jobsource=hotjob_chr,"【桃園/台中廠擴大招募】SR Data Engineer, Smart MFG & AI",https://www.104.com.tw/job/6s7d4?jobsource=hotjob_chr,"As a Senior Data Engineer at Micron Technology Inc., you will be a key member of our Technology Solutions group within the Smart Manufacturing and Artificial Intelligence organization. The Data Engineering team works closely with Micron’s business functions(Domain expert, Data Scientist..etc) in all aspects of data, like Connect and automate the pipelines, provide data as products building data lake, data warehouse and data mart, and data cleansing and data governance developing Big data engineering, Machine Learning and advanced analytics solutions. We are looking for individuals with strong experience in Big Data and Cloud Datawarehouse technologies. This role will work primarily with Big Data technologies like Hadoop, Cloud data warehouse like Snowflake and GCP, ETL skills like Ni-Fi, Monitoring solutions such as Splunk, automation and machine learning using Python.
+ 
+You will ensure critical projects as well as higher level production support are delivered with high quality and collaboration with internal Micron team members.
+ 
+Responsibilities and Tasks      
+•	Clarify project requirements and deliverables
+•	Collaborate with Key project partners, Solution analyst and Architect on project needs and translate requirements into technical needs
+•	Identify and understand the data sources that are relevant for analysis   
+•	Become a subject matter expert in company data sources and visualization options 
+•	Consolidate the requirements and using data engineering skills to design a robust DataMart 
+•	Participate in design, architecture review and deployment of Big data and cloud data warehouse solutions
+•	Design for automation and monitoring mechanism in a continuous integration environment 
+•	Implement solutions that eliminate or minimize technical debt through a well-designed architecture, data model, and lifecycle
+•	Bring together and share best-practice knowledge among the data engineering community
+•	Work with OPS team through operational issues, escalations and resolve business partner issues in a timely manner with strong collaboration and care for business priorities.
+•	Collaborate with business partners and other teams to ensure data solutions are available, recover from failures and operate healthy
+ 
+What we are looking for:
+•	B.S. degree and above in Computer Science or related fields (Information Engineering, Information Management, Data engineering, Applied Mathematics) 
+•	3+ years of experience working with Big Data Solutions development
+•	3+ years using ETL tools (NiFi, Informatica, SSIS, Spark…etc) 
+•	3+ years developing with relational databases (MS SQL, Oracle, MySQL…etc) 
+•	1+ years developing with Machine Learning, Data Analysis Knowledge/Skills
+•	Strong application development skills and proficiency with Python, Java, Base shell, SQL…etc 
+•	Strong developing applications with Hadoop Eco. Such as Hive, Spark, Kafka, HBase
+•	Experience with Cloud services such as GCP, AWS, Snowflake
+•	Experience with designing data monitoring dashboards by using Splunk, Tableau or any others visualization tools
+•	Experience with web-applications/technologies development and deployment (RESTful services, Flask, Django, SpringBoot and ASP.net…etc)
+•	Knowledge about container services such as Docker, Kubernetes, OpenShift is a plus
+•	A passion for data and information with strong analytical, problem solving, and organizational skills
+•	The ability to work in a dynamic, fast-paced, work environment
+•	Self-motivated with the ability to work under minimal supervision
+•	On-call support for escalated ticketing handling is expected for customer service 
+•	Good communication skills in English or TOEIC 650 and above","['上班族', '外籍人士', '原住民', '二度就業']",[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,"['資訊管理相關', '資訊工程相關', '其他數學及電算機科學相關']",3年以上,待遇面議
+1,"神基科技股份有限公司
+                    ",https://www.104.com.tw/company/a5hho0w?jobsource=hotjob_chr,DBA 資料庫管理師 (南港) - RVSBG,https://www.104.com.tw/job/79a2p?jobsource=hotjob_chr,"1.	熟悉 Oracle DB , MS SQL DB [加分], My SQL DB [加分]
+2.	熟悉PL/SQL
+3.	資料庫建置/備份/復原/升級/效能調校/異常排除
+4.	數據分析/系統分析
+5.	熟Unix/Linux環境操作
+6.	具備OCP證照[加分]",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,"['資訊工程相關', '資訊管理相關']",3年以上,待遇面議
+2,"鼎漢國際工程顧問股份有限公司
+                    ",https://www.104.com.tw/company/aryy6o0?jobsource=jolist_d_relevance,數據師、大數據分析師(臺北市信義區),https://www.104.com.tw/job/7cfoj?jobsource=jolist_d_relevance,"1.交通數據分析、資料庫開發管理 
+
+2.以統計、資訊及數學相關科系優先 
+
+3.熟悉工具與程式：R、SAS、PYTHON、MYSQL、MSSQL、HADOOP
+
+其它說明：需出差、需外派","['上班族', '應屆畢業生', '日間就讀中', '夜間就讀中', '外籍人士', '原住民', '二度就業']",[],[],"['資訊管理相關', '運輸管理相關', '數學及電算機科學學科類']",不拘,"月薪30,000~50,000元"
+3,"翰成數位科技股份有限公司
+                    ",https://www.104.com.tw/company/ck0s028?jobsource=jolist_d_relevance,資訊中心 - 大數據分析師,https://www.104.com.tw/job/6z9c7?jobsource=jolist_d_relevance,"翰成數位科技專攻直播短影音新媒體、耗時多年開發的短影音推薦引擎，將於2021年Q3推出嗨吧 APP 、超過 1300坪全台第一座直播產業基地即將啟動，基地建置9 間專業攝影棚，專攻短影音、直播場景銷售營造。
 
 透過直播、短影音內容推播，串連實體商家、電商、娛樂、知識、創造流量變現，發展直播短影音生態圈。我們有多個業務職缺正在尋求好手 ~
 
@@ -18,17 +66,15 @@
 數據研究報告撰寫
 數據資料庫維運
 應用大數據分析系統做消費者行為分析
-將資料視覺化"
-2,"鼎漢國際工程顧問股份有限公司
-                    ",https://www.104.com.tw/company/aryy6o0?jobsource=jolist_c_relevance,數據師、大數據分析師(臺北市信義區),https://www.104.com.tw/job/7cfoj?jobsource=jolist_c_relevance,"1.交通數據分析、資料庫開發管理 
-
-2.以統計、資訊及數學相關科系優先 
-
+將資料視覺化",['上班族'],[],[],[],2年以上,待遇面議
+4,"鼎漢國際工程顧問股份有限公司
+                    ",https://www.104.com.tw/company/aryy6o0?jobsource=jolist_d_relevance,數據師、大數據分析師(臺中市北區),https://www.104.com.tw/job/7cfpz?jobsource=jolist_d_relevance,"1.交通數據分析、資料庫開發管理 
+2.以交通、統計、資訊及數學相關科系優先 
 3.熟悉工具與程式：R、SAS、PYTHON、MYSQL、MSSQL、HADOOP
 
-其它說明：需出差、需外派"
-3,"新加坡商晚安有限公司台灣分公司
-                    ",https://www.104.com.tw/company/1a2x6blamp?jobsource=jolist_c_relevance,資料數據分析師 Data analyst,https://www.104.com.tw/job/750o4?jobsource=jolist_c_relevance,"Goodnight 2015 年底正式上線，Goodnight 致力於創造一個富有驚喜的交友體驗，希望專注在「聲音」而不是「照片」來認識新朋友。使用者能根據自己的喜好來配對，並和配對者進行語音聊天，一次7分鐘。
+其它說明：需出差、需外派","['上班族', '應屆畢業生', '日間就讀中', '夜間就讀中', '外籍人士', '原住民', '二度就業']",[],[],"['資訊管理相關', '運輸管理相關', '數學及電算機科學學科類']",不拘,"月薪30,000~50,000元"
+5,"新加坡商晚安有限公司台灣分公司
+                    ",https://www.104.com.tw/company/1a2x6blamp?jobsource=jolist_d_relevance,資料數據分析師 Data analyst,https://www.104.com.tw/job/750o4?jobsource=jolist_d_relevance,"Goodnight 2015 年底正式上線，Goodnight 致力於創造一個富有驚喜的交友體驗，希望專注在「聲音」而不是「照片」來認識新朋友。使用者能根據自己的喜好來配對，並和配對者進行語音聊天，一次7分鐘。
 
 在短短四年內，Goodnight 已成功打入五個市場，曾在許多國家榮登 Google Play 交友榜首，至今已有註冊用戶800萬人。以規模而言，目前已經是亞洲最大的聲音交友軟體。
 
@@ -50,9 +96,9 @@ Goodnight 深受年輕用戶的青睞。Goodnight 每天能產生40萬通配對�
 
 【加分項目】
 • 有實際使用過AWS EC2/Google BigQuery。
-• 統計、機器學習、深度學習理論與應用結合。"
-4,"英屬安吉拉商多重宙有限公司
-                    ",https://www.104.com.tw/company/1a2x6blngm?jobsource=jolist_c_relevance,資料分析師 Data Analyst,https://www.104.com.tw/job/7bzyo?jobsource=jolist_c_relevance,"公司的核心價值即我們的信念
+• 統計、機器學習、深度學習理論與應用結合。",['上班族'],[],[],[],2年以上,"月薪40,000元以上"
+6,"英屬安吉拉商多重宙有限公司
+                    ",https://www.104.com.tw/company/1a2x6blngm?jobsource=jolist_d_relevance,資料分析師 Data Analyst,https://www.104.com.tw/job/7bzyo?jobsource=jolist_d_relevance,"公司的核心價值即我們的信念
 新穎的價值觀宛如我們的DNA，是做決定時最初的源頭。
 ◆ 永保好奇
 (太空人在地球上是安全的，但去外太空才是他們的意義）
@@ -97,15 +143,9 @@ Goodnight 深受年輕用戶的青睞。Goodnight 每天能產生40萬通配對�
 
 • 基礎SQL，PostgreSQL、MySQL或其他SQL資料庫
 • Airtable經驗
-• Python "
-5,"鼎漢國際工程顧問股份有限公司
-                    ",https://www.104.com.tw/company/aryy6o0?jobsource=jolist_c_relevance,數據師、大數據分析師(臺中市北區),https://www.104.com.tw/job/7cfpz?jobsource=jolist_c_relevance,"1.交通數據分析、資料庫開發管理 
-2.以交通、統計、資訊及數學相關科系優先 
-3.熟悉工具與程式：R、SAS、PYTHON、MYSQL、MSSQL、HADOOP
-
-其它說明：需出差、需外派"
-6,"優聘資訊科技有限公司
-                    ",https://www.104.com.tw/company/1a2x6bktpo?jobsource=jolist_c_relevance,[TCXY03] 資料分析師_Data analyst,https://www.104.com.tw/job/71wcb?jobsource=jolist_c_relevance,"【代企業徵才，錄取後為該企業正職員工】
+• Python ",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,[],1年以上,待遇面議
+7,"優聘資訊科技有限公司
+                    ",https://www.104.com.tw/company/1a2x6bktpo?jobsource=jolist_d_relevance,[TCXY03] 資料分析師_Data analyst,https://www.104.com.tw/job/71wcb?jobsource=jolist_d_relevance,"【代企業徵才，錄取後為該企業正職員工】
 
 工作職責：
 1. 針對平台數據內容，進行數據整理及分析。
@@ -127,9 +167,18 @@ Goodnight 深受年輕用戶的青睞。Goodnight 每天能產生40萬通配對�
 
 https://lobby.insula.ai/?env=activ&activ_type=104
 (欲參與面試者請於遊戲結束後，務必點擊【了解更多】，填入真實姓名)
-------------------------------------------------------------------------------------------"
-7,"立樂高園股份有限公司
-                    ",https://www.104.com.tw/company/1a2x6bj6wg?jobsource=jolist_c_relevance,(日文)數據分析師 Data Analyst (SQL)ー超知名社群平台(15457),https://www.104.com.tw/job/7c9yb?jobsource=jolist_c_relevance,"台灣超知名匿名社群平台，招募「數據分析師 Data Analyst (SQL)」！
+------------------------------------------------------------------------------------------",['上班族'],[],[],[],1年以上,"月薪38,000~60,000元"
+8,"凡谷興業有限公司
+                    ",https://www.104.com.tw/company/1a2x6bi8ln?jobsource=jolist_d_relevance,數據分析師,https://www.104.com.tw/job/79nah?jobsource=jolist_d_relevance,"1.發現問題、發揮數據價值為導向，能深入理解內部需求與痛點，確定問題與目標，並給予有效的數據解決方案。
+2.協助內部完成多維度指標體系的梳理和建設，並能完成數據管理、分析與應用全流程工作，必要時需要跨部門合作。
+3.對於數據與分析具有熱情。調動公司內部資源，完成分析系統 。
+4.以解決內部分析問題為目標，提供諮詢服務和專題分析報告。
+5.與技術部門配合不斷提升數據的易用性，產出技術文件。
+6.從單個或多個系統生成報告，對報告數據庫環境和報告進行故障排除。
+7.評估資料分析系統的更改和更新，在新報告和儀表板上對內部員工進行教育訓練。
+","['上班族', '應屆畢業生']",[],英文:聽 /精通、說 /中等、讀 /精通、寫 /精通,"['資訊管理相關', '資訊工程相關']",不拘,待遇面議
+9,"立樂高園股份有限公司
+                    ",https://www.104.com.tw/company/1a2x6bj6wg?jobsource=jolist_d_relevance,(日文)數據分析師 Data Analyst (SQL)ー超知名社群平台(15457),https://www.104.com.tw/job/7c9yb?jobsource=jolist_d_relevance,"台灣超知名匿名社群平台，招募「數據分析師 Data Analyst (SQL)」！
 主要負責日本團隊之數據分析，會接觸到許多日文數據資料。
 
 【具體工作內容】
@@ -159,20 +208,9 @@ https://lobby.insula.ai/?env=activ&activ_type=104
 
 
 【更多職缺】
-https://www.reeracoen.tw/zh-tw/jobs/search"
-8,"科達製藥股份有限公司
-                    ",https://www.104.com.tw/company/a7v8bmg?jobsource=jolist_c_relevance,(生產部)大數據分析師,https://www.104.com.tw/job/7b2x2?jobsource=jolist_c_relevance,"1. 產線各項資料之處理程序，整理、檢視、分析資料，並撰寫結果報告。
-2.標準化流程分析及制定
-3.調查數據的彙整、除錯，並撰寫分析建議報告。
-4. 供應鏈管理優化"
-9,"福清營造股份有限公司
-                    ",https://www.104.com.tw/company/o1voca8?jobsource=jolist_c_relevance,資料分析師(總部),https://www.104.com.tw/job/72klv?jobsource=jolist_c_relevance,"1.以EXCEL建置數據資料庫。 
-
-2.配合需求製作各項EXCEL報表。 
-
-3.分析平台資料，提出異常報告。"
+https://www.reeracoen.tw/zh-tw/jobs/search",['上班族'],[],日文:聽 /精通、說 /精通、讀 /精通、寫 /精通,[],不拘,"月薪50,000~100,000元"
 10,"創控科技股份有限公司
-                    ",https://www.104.com.tw/company/1a2x6bi270?jobsource=jolist_c_relevance,資料分析師,https://www.104.com.tw/job/7bvef?jobsource=jolist_c_relevance,"1. 對結構化或非結構化資料進行分析,從巨量且多元的數據中萃取可用之資訊
+                    ",https://www.104.com.tw/company/1a2x6bi270?jobsource=jolist_d_relevance,資料分析師,https://www.104.com.tw/job/7bvef?jobsource=jolist_d_relevance,"1. 對結構化或非結構化資料進行分析,從巨量且多元的數據中萃取可用之資訊
 2. 數據清理、數據標籤定義與採集
 3. 資料視覺化呈現
 4. 對於各系統間數據的串接與整合分析、建模分析(Modeling)等
@@ -185,18 +223,9 @@ Key requirement 能力需求
  • 具備極強的學習能力和自我驅動意識，能夠發現問題並解決問題。 
 • 對於AI、ML等開發運用有經驗者，加分 
 • 有成功的GA商業應用經驗者，加分。
- • 提供數據分析相關作品將優先面試"
-11,"凡谷興業有限公司
-                    ",https://www.104.com.tw/company/1a2x6bi8ln?jobsource=jolist_c_relevance,數據分析師,https://www.104.com.tw/job/79nah?jobsource=jolist_c_relevance,"1.發現問題、發揮數據價值為導向，能深入理解內部需求與痛點，確定問題與目標，並給予有效的數據解決方案。
-2.協助內部完成多維度指標體系的梳理和建設，並能完成數據管理、分析與應用全流程工作，必要時需要跨部門合作。
-3.對於數據與分析具有熱情。調動公司內部資源，完成分析系統 。
-4.以解決內部分析問題為目標，提供諮詢服務和專題分析報告。
-5.與技術部門配合不斷提升數據的易用性，產出技術文件。
-6.從單個或多個系統生成報告，對報告數據庫環境和報告進行故障排除。
-7.評估資料分析系統的更改和更新，在新報告和儀表板上對內部員工進行教育訓練。
-"
-12,"勤崴國際科技股份有限公司
-                    ",https://www.104.com.tw/company/d8w0byw?jobsource=jolist_c_relevance,數據分析師,https://www.104.com.tw/job/7bep4?jobsource=jolist_c_relevance,"【工作摘要】
+ • 提供數據分析相關作品將優先面試",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,"['資訊工程相關', '數理統計相關']",3年以上,待遇面議
+11,"勤崴國際科技股份有限公司
+                    ",https://www.104.com.tw/company/d8w0byw?jobsource=jolist_d_relevance,數據分析師,https://www.104.com.tw/job/7bep4?jobsource=jolist_d_relevance,"【工作摘要】
 〔Data Engineer〕
 - Develop, operate, and monitor ETL for data collection, cleansing, processing, storage, and analytics
 - Automate common data process tasks and support data analysis tasks
@@ -204,9 +233,135 @@ Key requirement 能力需求
 - Write documents for architecture design and implementation
 
 
-"
-13,"復煜生物科技有限公司
-                    ",https://www.104.com.tw/company/1a2x6blggk?jobsource=jolist_c_relevance,商業資料分析師/數據分析師,https://www.104.com.tw/job/79ck3?jobsource=jolist_c_relevance,"運用資料科學專業，協助公司掌握有價值的資料並獲得洞見，本職務將專注於協助電商的銷量與銷售策略、行銷與研發部，對應的產業是生物科技公司所研發的營養品牌。
+","['上班族', '應屆畢業生']",[],[],"['數理統計相關', '資訊工程相關', '應用數學相關']",不拘,待遇面議
+12,"華碩電腦股份有限公司
+                    ",https://www.104.com.tw/company/auxx12g?jobsource=jolist_d_relevance,SA20088 資料分析師(Google Tag Manager、Google Analytics 與SEO),https://www.104.com.tw/job/4o08s?jobsource=jolist_d_relevance,"這是一個支援全球 scale 的團隊，我們進行研究、實驗、建立政策、製作指導文件、發展課程，透過各種溝通方式及規模不一的專案合作，讓公司的數位行銷往最新且正確的方向發展。我們期許自己能在世界級的難題中提供世界級的解決方案。這是我們要求英文能力、細心及積極的原因。
+
+1.全球數據追蹤分析需求支援與維運。
+2.數據分析工具架構佈建、使用諮詢與管理 。
+3.HQ & Local 數據分析 與 SEO 觀念與操作諮詢。
+4.Google與Facebook廣告平台技術導入與新應用研究，追蹤基礎佈建，再行銷廣告設定建議與協助。
+5.產品與平台數據追蹤與SEO優化：官網、商城、Support、ROG、MyASUS (APP)。",['上班族'],[],[],[],2年以上,待遇面議
+13,"福清營造股份有限公司
+                    ",https://www.104.com.tw/company/o1voca8?jobsource=jolist_d_relevance,資料分析師(總部),https://www.104.com.tw/job/72klv?jobsource=jolist_d_relevance,"1.以EXCEL建置數據資料庫。 
+
+2.配合需求製作各項EXCEL報表。 
+
+3.分析平台資料，提出異常報告。","['上班族', '應屆畢業生', '日間就讀中', '夜間就讀中', '外籍人士', '原住民', '二度就業']",[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,[],2年以上,待遇面議
+14,"裕隆集團_裕隆汽車製造股份有限公司
+                    ",https://www.104.com.tw/company/1lpdny9?jobsource=jolist_d_relevance,數據分析師,https://www.104.com.tw/job/7aqj2?jobsource=jolist_d_relevance,"1. 數據搜集/整理與數據視覺化：
+    能活用SQL相關工具，以及資料視覺化的相關EDA工具。
+2. 維持數據源品質及穩定性：
+    具一定伺服器健康度管理能力，以監看數據源穩定度，避免資料遺失闕值或錯序。
+3. 數據分析與洞見提出：
+    具備統計分析/資料探勘能力，及初階建模能力，能將處理後的數據資料昇華為資訊(Information)，並提出洞見。
+4. 依數據發掘問題/提供建議：
+    依據資料探勘結果發掘潛在問題與找出事先防範的機會點，提出相關建議，後配合MIS部門將制約/迴控的節點嵌入至既有系統當中。","['上班族', '原住民']",['普通小型車'],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,"['數學及電算機科學學科類', '電機電子工程相關', '資訊工程相關']",3年以上,待遇面議
+15,"新加坡商鈦坦科技股份有限公司台灣分公司
+                    ",https://www.104.com.tw/company/1a2x6bin60?jobsource=jolist_d_relevance,【採線上面談】Data Analyst 資料分析師,https://www.104.com.tw/job/75hic?jobsource=jolist_d_relevance,"【Game changer, armed with data.】
+    You know all about our users, through data analysis. And because you do, you can 
+identify issues and present insights to our Product Owners, spurring them into 
+action. Working with your team, you play a key role in enhancing our business 
+value. After all, you're the one who ignited the spark. And no spark, no fire.
+
+【What a Data Analyst does in Titansoft】
+．Conduct data analysis to support Product Owner and Business Leaders in business 
+    decisions and requirements
+．Develop and automate reports for analytical purposes
+．Collaborate with other Product Development teams to understand their business 
+    needs, formulate and complete end-to-end analysis that includes data gathering, 
+    analysis, ongoing scaled deliverables and presentations
+．Support key decision makers to improve products and services
+
+【What we are looking for in a Data Analyst】
+  1. Qualifications：
+      Minimum Bachelor in Mathematics, Statistics, Finance, Computer Science, 
+      Information Technology or other equivalent qualifications
+
+  2. Experience：
+  ．Experience working with statistical software (e.g. R, Python, Excel, etc.) Basic 
+    statistical principles and practical applications
+  ．Experience in measuring cost and production
+  ．Experience in scripting with SQL
+
+  3. Skills：
+  ．A/B and Multivariate testing management
+  ．Data visualization (such as Tableau, Excel, etc)
+．Ability to translate analysis results into business recommendations and insights
+．Ability to present the insights clearly to technical and non-technical audiences
+．Strong written, verbal communication and presentations skills
+
+【What makes a (Super!) Data Analyst in Titansoft AKA the ""great to haves""】
+    Deep interest and aptitude in data, metrics, analysis and trends, and applied 
+    knowledge of measurement, statistics and program evaluation",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,"['資訊管理相關', '資訊工程相關', '數理統計相關']",不拘,待遇面議
+16,"台灣資服科技股份有限公司
+                    ",https://www.104.com.tw/company/b4qs394?jobsource=jolist_d_relevance,數據分析師-TB90B,https://www.104.com.tw/job/6ki4b?jobsource=jolist_d_relevance,"1.具備在執行中專案進行數據的收集、整理、分析。
+2.依據數據能深入研究、專業評估及未來預測。
+3.能與客戶應對訪談。
+4.有相關實績者優。
+5.有Java開發經驗。",['上班族'],['普通重型機車'],[],['資訊管理相關'],不拘,"月薪30,000~60,000元"
+17,"復煜生物科技有限公司
+                    ",https://www.104.com.tw/company/1a2x6blggk?jobsource=jolist_d_relevance,商業資料分析師/數據分析師/資料科學家 (台北),https://www.104.com.tw/job/7aun3?jobsource=jolist_d_relevance,"運用資料科學專業，協助公司掌握有價值的資料並獲得洞見，本職務將專注於協助電商的銷量與銷售策略、行銷與研發部，對應的產業是生物科技公司所研發的營養品牌。
+
+【職務條件】 
+ 1. 與行銷/研發部溝通了解需求目的、想解決的問題與希望獲得的商業價值。
+2. 定義數據收集與後續分析需求，建構所需要的資料處理流程並協助公司進行數據處理(清洗、ETL、標籤、特徵提取等)。
+3. 依據數據處理與分析需求，建構數據模型，視實際情況調整並優化模型與流程。
+4. 進行各種數據追蹤和分析，針對商業問題提供有用數據、評估與應用在品牌環境中，並持續優化與修正。
+5. 將數據結果給予最佳的視覺化建議與呈現。
+6.將以上所提到的內容，運用在「品牌行銷」及優化銷售策略（PS：可提供資料科學角度的銷售策略）。 
+7. 比如 a.精準廣告投放  b.精準定價  c.利潤/數量最佳化  d.口碑熱度文字雲  e.產業消費者議題爬蟲  f.競品分析，並建立相關儀表板。
+
+【職務技能】 
+ 1. 分類分群、推薦、迴歸預測等機器學習相關實作經驗。
+ 2. 熟悉程式與分析應用，如 Python, R, SPSS, MATLAB, SAS 至少會上述一種應用。
+ 
+【加分條件】 
+1. 大數據生態系(Big Data Ecosystem)，如 Hadoop, Spark, MapReduce, Hive 等。
+2. 熟悉商業智慧(BI)工具，如 Tableau, QuickView, Qlik, PowerBI, Quicksight 等。
+3. 具有行銷代理商、品牌端、品牌行銷、電商的經驗。
+4. 主動積極、做事細心、責任心強、溝通能力佳、注重團隊合作精神。 
+5. 對數字具有敏感度與興趣，正向思考、自律性及配合度高能夠獨立思考，主動發現問題。
+
+【上班時間】 
+上班時間面談
+",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,[],3年以上,待遇面議
+18,"科達製藥股份有限公司
+                    ",https://www.104.com.tw/company/a7v8bmg?jobsource=jolist_d_relevance,(生產部)大數據分析師,https://www.104.com.tw/job/7b2x2?jobsource=jolist_d_relevance,"1. 產線各項資料之處理程序，整理、檢視、分析資料，並撰寫結果報告。
+2.標準化流程分析及制定
+3.調查數據的彙整、除錯，並撰寫分析建議報告。
+4. 供應鏈管理優化",['上班族'],[],[],"['數理統計相關', '資訊工程相關', '機械工程相關']",1年以上,"月薪35,000元以上"
+19,"亞洲指標數位行銷顧問股份有限公司
+                    ",https://www.104.com.tw/company/d8qa7g0?jobsource=jolist_d_relevance,資料分析師 (Data Analyst),https://www.104.com.tw/job/6k2x6?jobsource=jolist_d_relevance,"i-Buzz的核心理念是數據推動行銷策略，透過網路語料觀察與混搭資料研究進行開發，提供客戶深化的資料分析結果。另外欲透過自營的數位產品，挖掘使用者的行為數據，提供產品更好的體驗。
+
+職務內容如下：
+1. 文字探勘(80%工作碰到的資料都是文字語料)
+2. 進行資料建模
+3. 資料視覺化處理
+4. 開發預測模型
+5. 發展推薦演算法、個人化演算法
+
+此職缺需熟悉統計分析、Python或R語言、Machine Learning、MongoDB、SQL，有API串接或開發的經驗。
+
+誠摯歡迎符合以上條件，且具責任心、勇於接受挑戰者的加入。",['上班族'],[],英文:聽 /中等、說 /中等、讀 /精通、寫 /精通,['數學及電算機科學學科類'],不拘,"月薪35,000~55,000元"
+20,"精藤股份有限公司
+                    ",https://www.104.com.tw/company/18jr0l0o?jobsource=jolist_d_relevance,資料分析師,https://www.104.com.tw/job/4oqww?jobsource=jolist_d_relevance,"精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。
+
+而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20年來不斷精進的程式開發技術以及重視團隊合作的組織文化。
+
+在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。
+
+除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。
+
+本公司資料分析師之職務內容如下：
+1. 數據清理、數據標籤定義與採集
+2. 數據結果給予最佳視覺化建議與呈現
+3. 對於各系統間數據的串接與整合分析、建模分析(Modeling)等
+4. 規劃並執行數據相關的分析專案
+
+此職缺需熟悉統計分析、SQL、Python、R語言、Machine Learning與SPSS，且具備資料分析2年以上工作經驗。誠摯歡迎符合以上條件，且具責任心、勇於接受挑戰者的加入。",['上班族'],[],[],[],2年以上,待遇面議
+21,"復煜生物科技有限公司
+                    ",https://www.104.com.tw/company/1a2x6blggk?jobsource=jolist_d_relevance,商業資料分析師/數據分析師,https://www.104.com.tw/job/79ck3?jobsource=jolist_d_relevance,"運用資料科學專業，協助公司掌握有價值的資料並獲得洞見，本職務將專注於協助電商的銷量與銷售策略、行銷與研發部，對應的產業是生物科技公司所研發的營養品牌。
 
 【職務條件】 
  1. 與行銷/研發部溝通了解需求目的、想解決的問題與希望獲得的商業價值。
@@ -230,76 +385,4 @@ Key requirement 能力需求
 
 【上班時間】 
 上班時間面談
-"
-14,"誠品股份有限公司
-                    ",https://www.104.com.tw/company/amy7e2g?jobsource=jolist_c_relevance,【誠品】商業智慧數據分析師,https://www.104.com.tw/job/6sv02?jobsource=jolist_c_relevance,"1. SAP BO 報表規劃、設計、建置與管理;
-2. SAP BO 相關的諮詢服務與教育訓練;
-3. 須配合相關的數據分析、診斷與預測;
-4. 相關簡報、教材製作;
-5. 其他專案的支援與配合"
-15,"全球人事顧問股份有限公司
-                    ",https://www.104.com.tw/company/1a2x6bj4kz?jobsource=jolist_c_relevance,38K-40K/知名外商銀行-資料分析師 KHs,https://www.104.com.tw/job/7cv3f?jobsource=jolist_c_relevance,"▶JD
-1. Daily IBSL Attempt Rate and performance tracking.
-2.Monthly regional report-GRC,MRC.
-3.Monthly Line binding performance tracking.
-4.Monthly Campaign fulfillment-Digital insurance campaign,Line biding campaign.
-5.Monthly COPs list generation for campaign tracking. 
-6.SQL,SAS.
-
-▶Person specification
-1.Good sense of number and good business analytic skills and good logics with strategic mindsets.
-2.Good knowledge/skill of SAS programming.
-3.With financial market experience.
-"
-16,"華碩電腦股份有限公司
-                    ",https://www.104.com.tw/company/auxx12g?jobsource=jolist_c_relevance,SA20088 資料分析師(Google Tag Manager、Google Analytics 與SEO),https://www.104.com.tw/job/4o08s?jobsource=jolist_c_relevance,"這是一個支援全球 scale 的團隊，我們進行研究、實驗、建立政策、製作指導文件、發展課程，透過各種溝通方式及規模不一的專案合作，讓公司的數位行銷往最新且正確的方向發展。我們期許自己能在世界級的難題中提供世界級的解決方案。這是我們要求英文能力、細心及積極的原因。
-
-1.全球數據追蹤分析需求支援與維運。
-2.數據分析工具架構佈建、使用諮詢與管理 。
-3.HQ & Local 數據分析 與 SEO 觀念與操作諮詢。
-4.Google與Facebook廣告平台技術導入與新應用研究，追蹤基礎佈建，再行銷廣告設定建議與協助。
-5.產品與平台數據追蹤與SEO優化：官網、商城、Support、ROG、MyASUS (APP)。"
-17,"五號館有限公司
-                    ",https://www.104.com.tw/company/1a2x6bl722?jobsource=jolist_c_relevance,Environmental Data Analyst 環境資料分析師,https://www.104.com.tw/job/79mw4?jobsource=jolist_c_relevance,"你是否對於保護環境具有滿腔的熱血，並且深信在這個時代可以透過軟體改變許多事情呢?!本公司是一間想要透過資料服務對於這個環境貢獻出心力，努力朝向更永續的資源使用，目前還正在起步的階段，這個職位會參與開發公司的主要產品，希望能夠找到具有共同目標的夥伴一起努力！
-
-希望你具備有
-程式邏輯、數理運算和愛地球的心
-
-***工作內容***
-本公司是一間新創公司正在起步的階段，目前規劃開發著重於精準農業領域中的產品及服務，主要工作內容會是環境資料分析以及演算法的開發。
-
-- 數理統計演算法開發應用
-- 環境資料分析
-- 遙測影像處理模組開發
-- 網頁地圖圖台服務建置
-- 國內外最新技術蒐集並實作應用"
-18,"亞洲指標數位行銷顧問股份有限公司
-                    ",https://www.104.com.tw/company/d8qa7g0?jobsource=jolist_c_relevance,資料分析師 (Data Analyst),https://www.104.com.tw/job/6k2x6?jobsource=jolist_c_relevance,"i-Buzz的核心理念是數據推動行銷策略，透過網路語料觀察與混搭資料研究進行開發，提供客戶深化的資料分析結果。另外欲透過自營的數位產品，挖掘使用者的行為數據，提供產品更好的體驗。
-
-職務內容如下：
-1. 文字探勘(80%工作碰到的資料都是文字語料)
-2. 進行資料建模
-3. 資料視覺化處理
-4. 開發預測模型
-5. 發展推薦演算法、個人化演算法
-
-此職缺需熟悉統計分析、Python或R語言、Machine Learning、MongoDB、SQL，有API串接或開發的經驗。
-
-誠摯歡迎符合以上條件，且具責任心、勇於接受挑戰者的加入。"
-19,"FUNDAY_智擎數位科技股份有限公司
-                    ",https://www.104.com.tw/company/wdfgzo0?jobsource=jolist_c_relevance,數據分析師,https://www.104.com.tw/job/7clo1?jobsource=jolist_c_relevance,"1.資料庫管理、設計與分析，與程式設計師合作
-2. 現有資料庫優化，BI商業智慧設計，不同系統間數據的串接與整合分析
-
-"
-20,"紫式大數據決策股份有限公司
-                    ",https://www.104.com.tw/company/1a2x6bkygn?jobsource=jolist_c_relevance,資料分析師,https://www.104.com.tw/job/747q3?jobsource=jolist_c_relevance,"【工作內容】
-1. 了解產業知識並進行數據探索與視覺化
-2. 架構問題與規劃發展分析服務解決方案
-3. 專案時程溝通與資源協調
-
-【需求條件】
-1. 擅長R或Python進行資料探索、視覺化與分析應用。
-2. 出色的邏輯架構與溝通表達能力。
-
-【加分條件】
-1. 具備品保、農業、空調相關領域知識、經驗與技能。"
+",['上班族'],[],英文:聽 /中等、說 /中等、讀 /中等、寫 /中等,[],3年以上,待遇面議
