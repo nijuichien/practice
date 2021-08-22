@@ -55,7 +55,7 @@ for page in range(1,3):
                 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
         cres = requests.get(curl,headers=headers)
         cj = json.loads(cres.text)
-        content.append(cj['data']['jobDetail']['jobDescription'])
+        content.append(''.join(''.join(cj['data']['jobDetail']['jobDescription'].split('\n')).split('\r')))
         # print(cj['data']['condition'])
         o = []
         for i in cj['data']['condition']['acceptRole']['role']:
