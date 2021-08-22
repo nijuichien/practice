@@ -1,0 +1,31 @@
+Python:18
+Firebase:2
+R:9
+Outlook:1
+MySQL:6
+PostgreSQL:2
+英文打字20~50:2
+Google Tag Manager:1
+Excel:10
+hadoop:1
+中文打字50~75:1
+ANSI SQL:1
+Google Data Studio:3
+MS SQL:10
+SAP:1
+Google Analytics:6
+Word:4
+Data Architect:1
+PowerPoint:6
+SAS:2
+中文打字20~50:2
+Linux:3
+PL/SQL:1
+SPSS:1
+Data Marts:1
+Tableau:5
+Matlab:1
+Access:1
+Hive:1
+Power BI​:5
+Java:1
