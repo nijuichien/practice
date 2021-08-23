@@ -19,7 +19,8 @@ def crew(keyword):
         '薪資':[]
     }
     allSpeciality = []
-    each_Specialit = [] 
+    each_Specialit = []
+    keyword = keyword.encode('utf-8')
     for page in range(1,3):
         url = "https://www.104.com.tw/jobs/search/?ro=0&kwop=7&keyword="+keyword+"&expansionType=job&order=15&asc=0&page={}&mode=s&jobsource=2018indexpoc".format(str(page))
         res = requests.get(url,headers=headers)
