@@ -92,7 +92,9 @@ def crew(keyword,pages):
     dfs = concat([df,specialframe],axis=1)
 
     dfs.to_excel(keyword+'.xlsx', encoding="utf-8-sig")
-    dfs.to_csv(keyword+'.csv', encoding="utf-8-sig")
+    # dfs.to_csv(keyword+'.csv', encoding="utf-8-sig")
     print('Completed')
 
 crew(input("請輸入您想查詢的職業："),input("請輸入您想查詢總頁面數："))
+
+input("Press Enter to exit")

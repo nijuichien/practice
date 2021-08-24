@@ -33,10 +33,10 @@ htmls = []
 for i in prodids:
     htmls.append("https://24h.pchome.com.tw/prod/"+i)
 if prodids == price_cleaner:
-#     df_ID = pd.DataFrame(prodids,columns=['ID'])
-#     df_Name = pd.DataFrame(names,columns['Title'])
-#     df_price = pd.DataFrame(price,columns=['price'])
-#     df_qty = pd.DataFrame(qty,columns=['qty'])
+    df_ID = pd.DataFrame(prodids,columns=['ID'])
+    df_Name = pd.DataFrame(names,columns['Title'])
+    df_price = pd.DataFrame(price,columns=['price'])
+    df_qty = pd.DataFrame(qty,columns=['qty'])
 
     df = pd.DataFrame(
         {'ID':prodids,
@@ -45,6 +45,6 @@ if prodids == price_cleaner:
         'Qty':qty,
         'Html':htmls}
     )
-    # df.to_excel('excel_output.xlsx',sheet_name='Sheet1')
+    df.to_excel('excel_output.xlsx',sheet_name='Sheet1')
 print(df)
     
