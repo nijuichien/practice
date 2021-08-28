@@ -34,7 +34,7 @@ for i in prodids:
     htmls.append("https://24h.pchome.com.tw/prod/"+i)
 if prodids == price_cleaner:
     df_ID = pd.DataFrame(prodids,columns=['ID'])
-    df_Name = pd.DataFrame(names,columns['Title'])
+    df_Name = pd.DataFrame(names,columns=['Title'])
     df_price = pd.DataFrame(price,columns=['price'])
     df_qty = pd.DataFrame(qty,columns=['qty'])
 
