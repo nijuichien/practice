@@ -110,41 +110,41 @@ for page in range(1,3):
 # print(ob_reqiured['身分條件'])
 
 
-# data = {"Company":company,"Company Html":company_html,"Opening Job":job,
-#         "Opening Job Html":job_html,"Job's Content":content}
+data = {"Company":company,"Company Html":company_html,"Opening Job":job,
+        "Opening Job Html":job_html,"Job's Content":content}
 
-# data.update(ob_reqiured)
-# df = DataFrame(data)
-# dfs = pd.concat([df,specialframe],axis=1)
-# # print(df)
-# dfs.to_csv('104人力網.csv',encoding="utf-8-sig")
-# dfs.to_excel('104人力網.xlsx',encoding="utf-8-sig")
+data.update(ob_reqiured)
+df = DataFrame(data)
+dfs = pd.concat([df,specialframe],axis=1)
+# print(df)
+dfs.to_csv('104人力網.csv',encoding="utf-8-sig")
+dfs.to_excel('104人力網.xlsx',encoding="utf-8-sig")
 
 
-# path = '擅長工具.txt'
-# f = open(path,'w',encoding='utf-8')
-# for key,value in speciality_dict.items():
-#     f.write(key+':'+str(value)+'\n')
-# f.close
+path = '擅長工具.txt'
+f = open(path,'w',encoding='utf-8')
+for key,value in speciality_dict.items():
+    f.write(key+':'+str(value)+'\n')
+f.close
 
-# print('Completed')
+print('Completed')
 
 
 
 
 
 # ### 檢測用 ###
-def L(self):
-    return(len(self))
-print('company:',L(company))
-print('company_html:',L(company_html))
-print('job:',L(job))
-print('job_html:',L(job_html))
-print('content:',L(content))
-print(L(ob_reqiured['身分條件']))
-print(L(ob_reqiured['具備駕照']))
-print(L(ob_reqiured['語文條件']))
-print(L(ob_reqiured['科系要求']))
-print(L(ob_reqiured['工作經歷']))
-print(L(ob_reqiured['薪資']))
-print(L(speciality_list))
+# def L(self):
+#     return(len(self))
+# print('company:',L(company))
+# print('company_html:',L(company_html))
+# print('job:',L(job))
+# print('job_html:',L(job_html))
+# print('content:',L(content))
+# print(L(ob_reqiured['身分條件']))
+# print(L(ob_reqiured['具備駕照']))
+# print(L(ob_reqiured['語文條件']))
+# print(L(ob_reqiured['科系要求']))
+# print(L(ob_reqiured['工作經歷']))
+# print(L(ob_reqiured['薪資']))
+# print(L(speciality_list))
